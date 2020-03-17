@@ -26,7 +26,8 @@
 }
 
 #TANGRAM__PSP_4__submit {
-    background: #BDCEFC;
+    /* background: #BDCEFC; */
+    background: 'red';
     border-radius: 25px;
     width: 399px;
     height: 50px;
